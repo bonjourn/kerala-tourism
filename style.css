@@ -1,0 +1,26 @@
+h1{
+    color: green;
+    font-style: inherit;
+}
+.header{
+   
+
+}
+.header-tag{
+    background-color: black;
+}
+.header-tag a{
+    float: right;
+    margin-right: 55px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    border: 1px solid black;
+    padding: 8px;
+    margin-right: 8px;
+}
+.header-tag a:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}

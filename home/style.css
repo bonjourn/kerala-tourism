@@ -1,0 +1,23 @@
+
+.carousel{
+    height: 500px;
+}
+.carousel img{
+    height: 500px;
+}
+.content{
+    text-align: justify;
+    padding-left: 5%;
+    padding-top: 1%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+}
+.content .head h4{
+    padding-bottom: 5%;
+
+
+}
+.carousel #carouselExampleCaptions .carousel-inner .carousel-item img{
+    height: 500px;
+    
+}
